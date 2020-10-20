@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-07T07:23:44Z" name="Default suite" finished-at="2020-10-07T07:24:09Z" duration-ms="25341">
+    <groups>
+    </groups>
+    <test started-at="2020-10-07T07:23:44Z" name="Default test" finished-at="2020-10-07T07:24:09Z" duration-ms="25341">
+      <class name="test.FDCalculatorTest">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:test.FDCalculatorTest@3c153a1]" started-at="2020-10-07T07:23:44Z" name="startUp" finished-at="2020-10-07T07:23:52Z" duration-ms="8851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="fdCalculatorTest()[pri:0, instance:test.FDCalculatorTest@3c153a1]" started-at="2020-10-07T07:23:52Z" name="fdCalculatorTest" finished-at="2020-10-07T07:24:07Z" duration-ms="14078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fdCalculatorTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:test.FDCalculatorTest@3c153a1]" started-at="2020-10-07T07:24:07Z" name="close" finished-at="2020-10-07T07:24:09Z" duration-ms="2372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test.FDCalculatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
